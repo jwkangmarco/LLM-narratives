@@ -4,7 +4,6 @@
 - 거꾸로 읽는 SSL 이번에는 LLM and AL 분야로 넘어 왔습니다! :)
 - 2022년도 이후로 가파르게 발전하고 있는 LLM 논문에 집중하여 의미가 있었던 논문을 살펴봅니다. 
 - 해당 논문에서 제시하는 메소드의 특징 그리고 역사적으로 평가되는 이유에 대해서 즐겁게 토론하는 시간을 가집니다. 
-- [Paper list Google sheet](https://docs.google.com/spreadsheets/d/1P-pACgU9G0xq6M9Gufad-3tLUBavSMyUL0NIdd6TVH8/edit#gid=2129665481)
 
 ## 기간 (예정)
 - 2024 1/20 ~
