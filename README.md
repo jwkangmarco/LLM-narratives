@@ -19,7 +19,7 @@
 6 주차 | alignment learning | Learning to summarize from human feedback | Open AI | 2022 Feb |  
 7 주차 | alignment learning | Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback | antropic | 2022 Apr |  
 8 주차 | alignment learning | Constitutional AI: Harmlessness from AI Feedback | antropic | 2022 Dec |  
-9 주차 | sLLM | Llama 2: Open Foundation and Fine-Tuned Chat Models | Meta | 2023 Jul |  
+9 주차 | sLLM | Llama 2: Open Foundation and Fine-Tuned Chat Models / Mistral 7B| Meta | 2023 Jul |  
 10 주차 | Reward Model | Scaling Laws for Reward Model Over optimization | Open AI | 2022 October |  
 11 주차 | Reward Model | Fine-Grained Human Feedback Gives Better Rewards for Language Model Training | Univ Washainton Et al | 2023 Oct |  
 12 주차 | non RL approach | Training Language Models with Language Feedback at Scale | Univ of NY et al | 2022 November |  
