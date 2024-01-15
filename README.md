@@ -1,6 +1,6 @@
 # [스터디] 거꾸로 읽는 SSL 시즌4: Large Language Models and Alignment Learning
 
-- [신청 Google form (12/26 신청 오픈 예정)](https://forms.gle/RUC7acT3s1tve6DY6)
+- [신청 Google form (신청 마감)](https://forms.gle/RUC7acT3s1tve6DY6)
 - 거꾸로 읽는 SSL 이번에는 LLM and AL 분야로 넘어 왔습니다! :)
 - 2022년도 이후로 가파르게 발전하고 있는 LLM 논문에 집중하여 의미가 있었던 논문을 살펴봅니다. 
 - 해당 논문에서 제시하는 메소드의 특징 그리고 역사적으로 평가되는 이유에 대해서 즐겁게 토론하는 시간을 가집니다. 
