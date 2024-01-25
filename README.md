@@ -9,9 +9,9 @@
 - 2024 1/27 ~ 6/15 (예정)
 
 ## 발표 논문 및 순서
-  | Type | Paper title | Affiliation | ArXiv upload date | Speaker
--- | -- | -- | -- | -- | --
+
 1 주차 | overview | overview (참고 논문) |   |   | 강재욱
+-- | -- | -- | -- | -- | --
 2 주차 | pretraining | Training Compute-Optimal Large Language Models | DeepMind | 2022 Mar | 김택민
 3 주차 | pretraining | Will we run out of data? An analysis of the limits of scaling datasets in Machine Learning | MIT | 2022 Oct | 이인규
 4 주차 | alignment learning | Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback | antropic | 2022 Apr | 특별 손님
@@ -19,18 +19,18 @@
 5 주차 | alignment learning | InstructGPT: Training language models to follow instructions with human feedback | Open AI | 2022 Mar | 이영수
 6 주차 | alignment learning | Learning to summarize from human feedback | Open AI | 2022 Feb | 김선호
 7 주차 | SFT | Scaling Instruction-Finetuned Language Models | Google | 2022 Dec | 이승준
-8 주차 | CoT | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | Google | 2022 Jan | 조성국
-9 주차 | augmented LM | WebGPT: Browser-assisted question-answering with human feedback | Open AI | 2022 Jun | 조용래
-10 주차 | sLLM | Llama 2: Open Foundation and Fine-Tuned Chat Models / Mistral 7B | Meta / Mistral | 2023 Jul | 김보섭
-11 주차 | sLLM / layer extension | SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling | upstage | 2023 Dec | 조진욱
-12 주차 | Reward Model | Scaling Laws for Reward Model Over optimization | Open AI | 2022 October | 김기범
-13 주차 | Reward Model | Fine-Grained Human Feedback Gives Better Rewards for Language Model Training | Univ Washainton Et al | 2023 Oct | 김강민
-14 주차 | non RL approach | Training Language Models with Language Feedback at Scale | Univ of NY et al | 2022 November | 이성윤
-15 주차 | non RL approach | DPO: Direct Preference Optimization: Your Language Model is Secretly a Reward Model | Standford Univ | 2023 May | 이승현
-16 주차 | LLM evaluation | Self-critiquing models for assisting human evaluators | Open AI | 2022 June | 김범준
-17 주차 | LLM evaluation | Judging LLM-as-a-judge with MT-Bench and Chatbot Arena | UC Berkeley et al | 2023 Oct | oyh5800@gmail.com
-18 주차 | RAG | In-context retrieval-augmented language models | AI21 Labs | 2023 January | 김재희
-19 주차 | RAG | SAIL: Search-Augmented Instruction Learning | MIT | 2023 June | 우태강
+8 주차 | Reward Model | Scaling Laws for Reward Model Over optimization | Open AI | 2022 October | 김기범
+9 주차 | Reward Model | Fine-Grained Human Feedback Gives Better Rewards for Language Model Training | Univ Washainton Et al | 2023 Oct | 김강민
+10 주차 | non RL approach | Training Language Models with Language Feedback at Scale | Univ of NY et al | 2022 November | 이성윤
+11 주차 | non RL approach | DPO: Direct Preference Optimization: Your Language Model is Secretly a Reward Model | Standford Univ | 2023 May | 이승현
+12 주차 | sLLM | Llama 2: Open Foundation and Fine-Tuned Chat Models / Mistral 7B | Meta / Mistral | 2023 Jul | 김보섭
+13 주차 | sLLM / layer extension | SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling | upstage | 2023 Dec | 조진욱
+14 주차 | LLM evaluation | Self-critiquing models for assisting human evaluators | Open AI | 2022 June | 김범준
+15 주차 | LLM evaluation | Judging LLM-as-a-judge with MT-Bench and Chatbot Arena | UC Berkeley et al | 2023 Oct | 오영화
+16 주차 | augmented LM | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | Google | 2022 Jan | 조성국
+17 주차 | augmented LM | WebGPT: Browser-assisted question-answering with human feedback | Open AI | 2022 Jun | 조용래
+18 주차 | augmented LM | In-context retrieval-augmented language models | AI21 Labs | 2023 January | 김재희
+19 주차 | augmented LM | SAIL: Search-Augmented Instruction Learning | MIT | 2023 June | 우태강
 20 주차 | wrap-up | 전체 흐름 재정리 |   |   | 강재욱
 
 ## 관련 링크
