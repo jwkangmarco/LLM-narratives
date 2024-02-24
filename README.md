@@ -16,8 +16,8 @@
 3 주차 | pretraining | Will we run out of data? An analysis of the limits of scaling datasets in Machine Learning | MIT | 2022 Oct | 이인규
 4 주차 | alignment learning | Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback | antropic | 2022 Apr | 조원익
 4 주차 | alignment learning | Constitutional AI: Harmlessness from AI Feedback | antropic | 2022 Dec | 조원익
-5 주차 | alignment learning | InstructGPT: Training language models to follow instructions with human feedback | Open AI | 2022 Mar | 이영수
-6 주차 | alignment learning | Learning to summarize from human feedback | Open AI | 2022 Feb | 김선호
+5 주차 | alignment learning | Learning to summarize from human feedback | Open AI | 2022 Feb | 김선호
+6 주차 | alignment learning | InstructGPT: Training language models to follow instructions with human feedback | Open AI | 2022 Mar | 이영수
 7 주차 | SFT | Scaling Instruction-Finetuned Language Models | Google | 2022 Dec | 이승준
 8 주차 | Reward Model | Scaling Laws for Reward Model Over optimization | Open AI | 2022 October | 김기범
 9 주차 | Reward Model | Fine-Grained Human Feedback Gives Better Rewards for Language Model Training | Univ Washainton Et al | 2023 Oct | 김강민
