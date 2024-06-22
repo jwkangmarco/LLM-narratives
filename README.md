@@ -32,7 +32,7 @@
 18 주차 | augmented LM | In-context retrieval-augmented language models | AI21 Labs | 2023 January | 김재희
 19 주차 | augmented LM | SAIL: Search-Augmented Instruction Learning | MIT | 2023 June | 우태강
 20 주차 | augmented LM | Lost in the Middle: How Language Models Use Long Contexts| Stanford. etal | 2023 June | 표지원
-21 주차 | LLM evaluation | Turn LLMs to Embedding | - | - | 김보섭
+21 주차 | LLM embedding | Turn LLMs to Embedding | - | - | 김보섭
 22 주차 | wrap-up | 전체 흐름 재정리 |   |   | 강재욱
 
 ## 관련 링크
