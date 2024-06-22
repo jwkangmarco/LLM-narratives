@@ -24,7 +24,7 @@
 10 주차 | non RL approach | Training Language Models with Language Feedback at Scale | Univ of NY et al | 2022 November | 이성윤
 11 주차 | non RL approach | DPO: Direct Preference Optimization: Your Language Model is Secretly a Reward Model | Standford Univ | 2023 May | 이승현
 12 주차 | sLLM | Llama 2: Open Foundation and Fine-Tuned Chat Models / Mistral 7B | Meta / Mistral | 2023 Jul | 김보섭
-13 주차 | sLLM / block extension | SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling | upstage | 2023 Dec | 조진욱
+13 주차 | sLLM / block extension | SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling | upstage | 2023 Dec | 조진욱
 14 주차 | sLLM| Life of Phi | MS | - | 김보섭
 15 주차 | LLM evaluation | Judging LLM-as-a-judge with MT-Bench and Chatbot Arena | UC Berkeley et al | 2023 Oct | 오영화
 16 주차 | augmented LM | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | Google | 2022 Jan | 조성국
